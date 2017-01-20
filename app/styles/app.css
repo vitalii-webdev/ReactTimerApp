@@ -5,3 +5,7 @@
 .top-bar .menu-text {
 	color: #ccc;
 }
+
+.top-bar .active-link {
+	font-weight: bold;
+}
